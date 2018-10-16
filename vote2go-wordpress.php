@@ -14,7 +14,7 @@ License: MIT
 require 'plugin-update-checker/plugin-update-checker.php';
 
 $v2gUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
-    'https://github.com/bugasi/vote2go_plugin_worpress',
+    'https://github.com/bugasi/vote2go_plugin_wordpress',
     __FILE__,
     'vote2go-wordpress'
 );
