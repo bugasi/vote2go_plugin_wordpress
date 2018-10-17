@@ -10,7 +10,6 @@
             params += "&criteria=" + e.dataset.v2gCriteria;
         }
         iframe.src = encodeURI("https://public.vote2go.de/vote/" + e.dataset.v2gVoteId + "?" + params);
-        iframe.seamless=true;
         e.appendChild(iframe);
     }
 }(document));
