@@ -4,7 +4,7 @@
 Plugin Name: Vote2Go Wordpress Plugin
 Plugin URI: http://URI_Of_Page_Describing_Plugin_and_Updates
 Description: Integrate vote2go surveys into your Wordpress website.
-Version: 0.3.6
+Version: 0.3.7
 Author: BuGaSi GmbH
 Author URI: https://bugasi.de/
 License: MIT

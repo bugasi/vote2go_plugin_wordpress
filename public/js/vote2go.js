@@ -5,6 +5,7 @@
         const iframe = document.createElement('iframe');
         iframe.height = e.dataset.v2gFrameHeight;
         iframe.width = e.dataset.v2gFrameWidth;
+        iframe.scrolling = "no";
         var params = "display=embedded";
         if (e.dataset.v2gCriteria) {
             params += "&criteria=" + e.dataset.v2gCriteria;
